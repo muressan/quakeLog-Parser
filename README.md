@@ -15,8 +15,6 @@ Aplicativo para ler e interpretar aquivo de Log do jogo Quake 3.
 
 ### Tecnologias utilizadas
 
-Dillinger uses a number of open source projects to work properly:
-
 * [Java] - JDK Version 8 Update 251 - Data da release - 14 de abril de 2020 
 * [SpringBoot] - v2.3.1.RELEASE (TomCat embedded 9.0.36)
 * [Swagger] - springfox-swagger2 v2.92
